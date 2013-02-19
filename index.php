@@ -33,7 +33,7 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/css/normalize.css">
-        <link rel="stylesheet" href="/css/main-min.css">
+        <link rel="stylesheet" href="/css/main2.css">
         <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -70,7 +70,7 @@
                             <?php
                             }
                             ?>
-                        <li><a href="/pt/">PT</a> | <a href="/en/">EN</a> | <a href="/es/">ES</a></li>
+                        <li class="langs"><a href="/pt/">PT</a><span>|</span><a href="/en/"><span>EN</span></a><span>|</span><a href="/es/"><span>ES</span></a></li>
                     </ul>
                 </nav>
             </div>
@@ -92,9 +92,10 @@
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
+        <!-- 
         <script src="/js/main-min.js"></script>
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+ -->        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
             // var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
             // (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
