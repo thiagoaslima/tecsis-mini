@@ -186,27 +186,26 @@ h1 {
 
 #main{
     background-image: url(/i/billie_holiday.jpg);
-    padding-top: 1em;
+    padding-top: 0.5em;
 }
 
 #fotos{
     position: relative;
     z-index: 1;
     width: 960/16 * 1em;
-    height: 250/16 * 1em;
-    margin: 0 auto 1.5em;
+    height: 304/16 * 1em;
+    margin: 0 auto 1.2em;
     border: 2px solid rgb(237, 240, 243);
 
     img {
         max-width: 100%;
         position: relative;
-        top: -2.5em;
     }
 }
 
 #fotos{
-    -webkit-box-shadow: 4px 0 6px rgba(0, 0, 0, 0.15),-4px 0 6px rgba(0, 0, 0, 0.15);
-    box-shadow: 4px 0 6px rgba(0, 0, 0, 0.15),-4px 0 6px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15), -1px 1px 6px rgba(0, 0, 0, 0.15);
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15), -1px 1px 6px rgba(0, 0, 0, 0.15);
 }
 
 .langs {
@@ -275,20 +274,37 @@ h1 {
     height: 100%;
     width: 47/16 * 1em;
 }
+
+button.spr{
+    position: absolute;
+    height: 100%;
+    width: 50/16 * 1em;
+    top: 0; bottom: 0;
+    border: 0;
+}
+.spr {
+    background: url('/i/btn.png') no-repeat;
+}
 .spr-left {
     left: 0;
+    background-position: 0 -5px;
+
+    &:hover{
+        background-position: -70px -5px;
+    }
 }
 .spr-right {
     right: 0;
-}
-.spr-sprite, .spr-left, .spr-right {
-    background: url('/i/spr-se43f668416.png') no-repeat;
+    background-position: -210px -5px;
+
+    &:hover{
+        background-position: -140px -5px;
+    }
 }
 
 #frases {
     width: 860/16 * 1em;
     margin: 0 auto;
-    outline: 1px solid black;
 }
 
 .frase{
@@ -305,10 +321,10 @@ h1 {
         font-weight: 700;
         color: rgb(0, 105, 145);
         text-shadow: 0 1px 0 rgb(247, 247, 247);
-        font-size: 1.5625em;
-        line-height: 1.08em;
+        font-size: 1.45em;
+        line-height: 1em;
         text-transform: uppercase;
-        height: 50px;
+        height: 40px;
         margin: 0;
     }
 
@@ -317,10 +333,9 @@ h1 {
         font-size: .75em;
         font-style: normal;
         font-weight: normal;
-        line-height: 1.66667em;
+        line-height: 18/12 * 1em;
     }
 }
-
 
 
 

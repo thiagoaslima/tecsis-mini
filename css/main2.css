@@ -189,7 +189,7 @@ h1 {
 /* line 187, ../scss/main2.scss */
 #main {
   background-image: url(/i/billie_holiday.jpg);
-  padding-top: 1em;
+  padding-top: 0.5em;
 }
 
 /* line 192, ../scss/main2.scss */
@@ -197,37 +197,36 @@ h1 {
   position: relative;
   z-index: 1;
   width: 60em;
-  height: 15.625em;
-  margin: 0 auto 1.5em;
+  height: 19em;
+  margin: 0 auto 1.2em;
   border: 2px solid #edf0f3;
 }
 /* line 200, ../scss/main2.scss */
 #fotos img {
   max-width: 100%;
   position: relative;
-  top: -2.5em;
 }
 
-/* line 207, ../scss/main2.scss */
+/* line 206, ../scss/main2.scss */
 #fotos {
-  -webkit-box-shadow: 4px 0 6px rgba(0, 0, 0, 0.15), -4px 0 6px rgba(0, 0, 0, 0.15);
-  box-shadow: 4px 0 6px rgba(0, 0, 0, 0.15), -4px 0 6px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15), -1px 1px 6px rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15), -1px 1px 6px rgba(0, 0, 0, 0.15);
 }
 
-/* line 212, ../scss/main2.scss */
+/* line 211, ../scss/main2.scss */
 .langs {
   margin-right: 0;
 }
-/* line 215, ../scss/main2.scss */
+/* line 214, ../scss/main2.scss */
 .langs span, .langs a {
   float: left;
   display: block;
 }
-/* line 220, ../scss/main2.scss */
+/* line 219, ../scss/main2.scss */
 .langs span {
   margin: 0 0.5em;
 }
-/* line 224, ../scss/main2.scss */
+/* line 223, ../scss/main2.scss */
 .langs a {
   width: 1.6em;
   height: 1.6em;
@@ -240,26 +239,26 @@ h1 {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60);
   opacity: 0.60;
 }
-/* line 236, ../scss/main2.scss */
+/* line 235, ../scss/main2.scss */
 .langs a:hover {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
-/* line 242, ../scss/main2.scss */
+/* line 241, ../scss/main2.scss */
 .langs a[href="/pt/"] {
   background-image: url(/i/br.png);
 }
-/* line 246, ../scss/main2.scss */
+/* line 245, ../scss/main2.scss */
 .langs a[href="/en/"] {
   background-image: url(/i/us.png);
 }
-/* line 250, ../scss/main2.scss */
+/* line 249, ../scss/main2.scss */
 .langs a[href="/es/"] {
   background-image: url(/i/es.png);
 }
 
-/* line 256, ../scss/main2.scss */
+/* line 255, ../scss/main2.scss */
 .mask {
   position: relative;
   overflow: hidden;
@@ -267,16 +266,16 @@ h1 {
   max-height: 100%;
   white-space: nowrap;
 }
-/* line 263, ../scss/main2.scss */
+/* line 262, ../scss/main2.scss */
 .mask > img {
   display: inline;
 }
-/* line 267, ../scss/main2.scss */
+/* line 266, ../scss/main2.scss */
 .mask .frase * {
   white-space: normal;
 }
 
-/* line 272, ../scss/main2.scss */
+/* line 271, ../scss/main2.scss */
 .button {
   position: absolute;
   top: 0;
@@ -286,28 +285,47 @@ h1 {
 }
 
 /* line 278, ../scss/main2.scss */
-.spr-left {
-  left: 0;
+button.spr {
+  position: absolute;
+  height: 100%;
+  width: 3.125em;
+  top: 0;
+  bottom: 0;
+  border: 0;
 }
 
-/* line 281, ../scss/main2.scss */
-.spr-right {
-  right: 0;
-}
-
-/* line 284, ../scss/main2.scss */
-.spr-sprite, .spr-left, .spr-right {
-  background: url("/i/spr-se43f668416.png") no-repeat;
+/* line 285, ../scss/main2.scss */
+.spr {
+  background: url("/i/btn.png") no-repeat;
 }
 
 /* line 288, ../scss/main2.scss */
+.spr-left {
+  left: 0;
+  background-position: 0 -5px;
+}
+/* line 292, ../scss/main2.scss */
+.spr-left:hover {
+  background-position: -70px -5px;
+}
+
+/* line 296, ../scss/main2.scss */
+.spr-right {
+  right: 0;
+  background-position: -210px -5px;
+}
+/* line 300, ../scss/main2.scss */
+.spr-right:hover {
+  background-position: -140px -5px;
+}
+
+/* line 305, ../scss/main2.scss */
 #frases {
   width: 53.75em;
   margin: 0 auto;
-  outline: 1px solid black;
 }
 
-/* line 294, ../scss/main2.scss */
+/* line 310, ../scss/main2.scss */
 .frase {
   width: 33.33333%;
   padding: 0 0.95em;
@@ -316,26 +334,26 @@ h1 {
   *display: inline;
   *zoom: 1;
 }
-/* line 302, ../scss/main2.scss */
+/* line 318, ../scss/main2.scss */
 .frase h2 {
   font-family: "Economica",Tahoma,Verdana,Segoe,sans-serif;
   font-style: normal;
   font-weight: 700;
   color: #006991;
   text-shadow: 0 1px 0 #f7f7f7;
-  font-size: 1.5625em;
-  line-height: 1.08em;
+  font-size: 1.45em;
+  line-height: 1em;
   text-transform: uppercase;
-  height: 50px;
+  height: 40px;
   margin: 0;
 }
-/* line 315, ../scss/main2.scss */
+/* line 331, ../scss/main2.scss */
 .frase p {
   font-family: Tahoma,Verdana,Segoe,sans-serif;
   font-size: .75em;
   font-style: normal;
   font-weight: normal;
-  line-height: 1.66667em;
+  line-height: 1.5em;
 }
 
 /* ==========================================================================
@@ -344,7 +362,7 @@ h1 {
 /*
  * Image replacement
  */
-/* line 345, ../scss/main2.scss */
+/* line 360, ../scss/main2.scss */
 .ir {
   background-color: transparent;
   border: 0;
@@ -353,7 +371,7 @@ h1 {
   *text-indent: -9999px;
 }
 
-/* line 353, ../scss/main2.scss */
+/* line 368, ../scss/main2.scss */
 .ir:before {
   content: "";
   display: block;
@@ -364,7 +382,7 @@ h1 {
 /*
  * Hide from both screenreaders and browsers: h5bp.com/u
  */
-/* line 364, ../scss/main2.scss */
+/* line 379, ../scss/main2.scss */
 .hidden {
   display: none !important;
   visibility: hidden;
@@ -373,7 +391,7 @@ h1 {
 /*
  * Hide only visually, but have it available for screenreaders: h5bp.com/v
  */
-/* line 373, ../scss/main2.scss */
+/* line 388, ../scss/main2.scss */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -389,7 +407,7 @@ h1 {
  * Extends the .visuallyhidden class to allow the element to be focusable
  * when navigated to via the keyboard: h5bp.com/p
  */
-/* line 390, ../scss/main2.scss */
+/* line 405, ../scss/main2.scss */
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
   clip: auto;
@@ -403,7 +421,7 @@ h1 {
 /*
  * Hide visually and from screenreaders, but maintain layout
  */
-/* line 403, ../scss/main2.scss */
+/* line 418, ../scss/main2.scss */
 .invisible {
   visibility: hidden;
 }
@@ -419,7 +437,7 @@ h1 {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-/* line 420, ../scss/main2.scss */
+/* line 435, ../scss/main2.scss */
 .clearfix:before, header:before, header ul:before,
 .clearfix:after,
 header:after,
@@ -430,7 +448,7 @@ header ul:after {
   /* 2 */
 }
 
-/* line 425, ../scss/main2.scss */
+/* line 440, ../scss/main2.scss */
 .clearfix:after, header:after, header ul:after {
   clear: both;
 }
@@ -439,7 +457,7 @@ header ul:after {
  * For IE 6/7 only
  * Include this rule to trigger hasLayout and contain floats.
  */
-/* line 434, ../scss/main2.scss */
+/* line 449, ../scss/main2.scss */
 .clearfix, header, header ul {
   *zoom: 1;
 }
@@ -460,7 +478,7 @@ header ul:after {
    Inlined to avoid required HTTP connection: h5bp.com/r
    ========================================================================== */
 @media print {
-  /* line 461, ../scss/main2.scss */
+  /* line 476, ../scss/main2.scss */
   * {
     background: transparent !important;
     color: #000 !important;
@@ -469,18 +487,18 @@ header ul:after {
     text-shadow: none !important;
   }
 
-  /* line 469, ../scss/main2.scss */
+  /* line 484, ../scss/main2.scss */
   a,
   a:visited {
     text-decoration: underline;
   }
 
-  /* line 473, ../scss/main2.scss */
+  /* line 488, ../scss/main2.scss */
   a[href]:after {
     content: " (" attr(href) ")";
   }
 
-  /* line 477, ../scss/main2.scss */
+  /* line 492, ../scss/main2.scss */
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
@@ -488,33 +506,33 @@ header ul:after {
   /*
    * Don't show links for images, or javascript/internal links
    */
-  /* line 487, ../scss/main2.scss */
+  /* line 502, ../scss/main2.scss */
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: "";
   }
 
-  /* line 492, ../scss/main2.scss */
+  /* line 507, ../scss/main2.scss */
   pre,
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid;
   }
 
-  /* line 497, ../scss/main2.scss */
+  /* line 512, ../scss/main2.scss */
   thead {
     display: table-header-group;
     /* h5bp.com/t */
   }
 
-  /* line 502, ../scss/main2.scss */
+  /* line 517, ../scss/main2.scss */
   tr,
   img {
     page-break-inside: avoid;
   }
 
-  /* line 506, ../scss/main2.scss */
+  /* line 521, ../scss/main2.scss */
   img {
     max-width: 100% !important;
   }
@@ -523,7 +541,7 @@ header ul:after {
     margin: 0.5cm;
 }
 
-  /* line 516, ../scss/main2.scss */
+  /* line 531, ../scss/main2.scss */
   p,
   h2,
   h3 {
@@ -531,7 +549,7 @@ header ul:after {
     widows: 3;
   }
 
-  /* line 522, ../scss/main2.scss */
+  /* line 537, ../scss/main2.scss */
   h2,
   h3 {
     page-break-after: avoid;
