@@ -4,542 +4,394 @@
 		"selected_items":
 		[
 			[
-				"b",
-				"button	<button>"
-			],
-			[
-				"link",
-				"link	link - stylesheet"
-			],
-			[
-				"ma",
-				"margin-top"
-			],
-			[
-				"pos",
-				"pos:a	position:absolute"
-			],
-			[
-				"marg",
-				"margin-left"
-			],
-			[
-				"bg",
-				"bgc	background-color"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"paddin",
-				"padding"
-			],
-			[
-				"fo",
-				"font-family"
-			],
-			[
 				"re",
-				"reviewSwf"
+				"relative"
 			],
 			[
-				"embed",
-				"embed_length"
-			],
-			[
-				"margin",
-				"margin-top"
-			],
-			[
-				"op",
-				"op	opacity"
-			],
-			[
-				"bo",
-				"bodyClass"
-			],
-			[
-				"body",
-				"bodyClass"
-			],
-			[
-				"min",
-				"min-height"
-			],
-			[
-				"po",
-				"pos:a	position:absolute"
-			],
-			[
-				"print",
-				"printf"
-			],
-			[
-				"text",
-				"text-transform"
-			],
-			[
-				"fon",
-				"font-family"
-			],
-			[
-				"bod",
-				"bodyId"
-			],
-			[
-				"pad",
-				"padding-top"
-			],
-			[
-				"padd",
-				"padding-top"
-			],
-			[
-				"t",
-				"time	<time>"
-			],
-			[
-				"da",
-				"date"
-			],
-			[
-				"not",
-				"noticias"
-			],
-			[
-				"ser",
-				"servicos"
-			],
-			[
-				"get",
-				"get	Get Elements"
-			],
-			[
-				"le",
-				"left"
+				"wh",
+				"whs	white-space"
 			],
 			[
 				"ba",
-				"background-position"
-			],
-			[
-				"n",
-				"no-repeat"
-			],
-			[
-				"back",
 				"background-repeat"
 			],
 			[
-				"padding",
-				"padding"
-			],
-			[
-				"tr",
-				"trs	transition"
-			],
-			[
-				"in",
-				"inherit"
-			],
-			[
 				"pa",
-				"padding"
-			],
-			[
-				"lis",
-				"lis:n	list-style:none"
-			],
-			[
-				"hei",
-				"height"
-			],
-			[
-				"cl",
-				"cl:b	clear:both"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"tex",
-				"text-align"
-			],
-			[
-				"bor",
-				"border-radius"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"home",
-				"home_link"
-			],
-			[
-				"ph",
-				"php"
+				"padding-top"
 			],
 			[
 				"mar",
 				"margin-top"
 			],
 			[
-				"f",
-				"fz	font-size"
+				"marg",
+				"margin-bottom"
 			],
 			[
-				"as",
-				"absolute"
+				"link",
+				"link	link - stylesheet"
 			],
 			[
-				"background-",
-				"background-repeat"
+				"contato",
+				"contato_extenso"
 			],
 			[
-				"P",
-				"pb	padding-bottom"
+				"cont",
+				"contato"
 			],
 			[
-				"h",
-				"ho	:hover"
+				"ti",
+				"tipo"
 			],
 			[
-				"border-bott",
-				"border-bottom"
+				"co",
+				"contato"
 			],
 			[
-				"paddi",
-				"padding-bottom"
+				"print",
+				"printf"
 			],
 			[
-				"di",
-				"display"
+				"conta",
+				"container"
 			],
 			[
-				"li",
-				"lis	list-style"
+				"update",
+				"updateHtml"
+			],
+			[
+				"new",
+				"newText"
+			],
+			[
+				"ne",
+				"newText"
+			],
+			[
+				"line",
+				"line_class"
+			],
+			[
+				"q",
+				"qtde_contato"
 			],
 			[
 				"te",
-				"text-transform"
-			],
-			[
-				"max",
-				"max-width"
+				"text-indent"
 			],
 			[
 				"z",
 				"z-index"
 			],
 			[
-				"rgb",
-				"rgba	rgba()"
+				"len",
+				"length"
+			],
+			[
+				"so",
+				"sobreIn"
+			],
+			[
+				"i",
+				"nomeIn"
+			],
+			[
+				"inici",
+				"iniciais"
+			],
+			[
+				"sobre",
+				"sobreSep"
+			],
+			[
+				"no",
+				"nomeSep"
+			],
+			[
+				"lvm_people",
+				"lvm_people_sobrenome"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"f",
+				":focus"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"do",
+				"display	zen:css_properties"
 			],
 			[
 				"inline",
 				"inline-block"
 			],
 			[
-				"bord",
-				"border-bottom"
+				"wp_p",
+				"wp_print_scripts"
 			],
 			[
-				"font-",
-				"font-weight"
+				"lvm_peop",
+				"lvm_people"
 			],
 			[
-				"border-b",
-				"border-bottom-color"
+				"add",
+				"add_action"
 			],
 			[
-				"dis",
-				"display"
+				"margin",
+				"margin-top"
 			],
 			[
-				"out",
-				"outline"
+				"hright",
+				"height	zen:css_properties"
 			],
 			[
-				"bz",
-				"bgz	background-size"
+				"inl",
+				"inline-block"
 			],
 			[
-				"zoo",
-				"zoo	zoom: 1;"
+				"pad",
+				"padding"
 			],
 			[
-				"mi",
-				"mix	@mixin"
+				"font",
+				"font-size"
 			],
 			[
-				"sans",
-				"sansGen"
-			],
-			[
-				"margin-",
-				"margin-bottom"
-			],
-			[
-				"fl",
-				"fl:l	float:left"
-			],
-			[
-				"i",
-				"italic"
-			],
-			[
-				"ost",
-				"ostBold"
-			],
-			[
-				"cu",
-				"cur:p	cursor:pointer"
-			],
-			[
-				"tra",
-				"transparent"
-			],
-			[
-				"d",
-				"d-ib	display: inline-block;"
-			],
-			[
-				"ie",
-				"IE"
-			],
-			[
-				"bx",
-				"bxsh	box-shadow"
-			],
-			[
-				"co",
-				"col	color"
-			],
-			[
-				"he",
-				"height"
-			],
-			[
-				"label",
-				"label	<label>"
-			],
-			[
-				"input",
-				"input	input - checkbox"
-			],
-			[
-				"fw",
-				"fw:n	font-weight:normal"
-			],
-			[
-				"br",
-				"border-radius"
-			],
-			[
-				"background",
-				"background-color"
-			],
-			[
-				"ver",
-				"verdeEscuro"
-			],
-			[
-				"margt",
-				"margin-bottom"
-			],
-			[
-				"v",
-				"va	vertical-align"
-			],
-			[
-				"ls",
-				"letter-spacing"
-			],
-			[
-				"tt",
-				"tt:u	text-transform:uppercase"
-			],
-			[
-				"bgp",
-				"bgp	background-position"
-			],
-			[
-				"bgr",
-				"bgr:n	background-repeat:no-repeat"
-			],
-			[
-				"visi",
-				"visible"
-			],
-			[
-				"bxs",
-				"bxsh+	box-shadow:0 0 0 #000"
-			],
-			[
-				"ts",
-				"tsh+	text-shadow:0 0 0 #000"
-			],
-			[
-				"az",
-				"azulClaro"
+				"sele",
+				"selected"
 			],
 			[
 				"ex",
-				"ext	@extend"
+				"explode"
 			],
 			[
-				"va",
-				"va:m	vertical-align:middle"
+				"is_a",
+				"is_admin"
 			],
 			[
-				"wh",
-				"whs:nw	white-space:nowrap"
+				"post",
+				"post_type"
 			],
 			[
-				"wo",
-				"wow:n	word-wrap:none"
+				"cu",
+				"cur_page"
 			],
 			[
-				"bxz",
-				"bxz:bb	box-sizing:border-box"
+				"ch",
+				"check"
 			],
 			[
-				"img",
-				"img	img"
+				"get_curren",
+				"get_current_screen"
 			],
 			[
-				"la",
-				"labelClass"
+				"get_p",
+				"get_page_uri"
+			],
+			[
+				"get_tit",
+				"get_the_title"
 			],
 			[
 				"lvm",
-				"lvmdata	text data lvm"
+				"lvm_people_citacao"
+			],
+			[
+				"get_po",
+				"get_post_meta"
+			],
+			[
+				"get_meta_",
+				"get_meta_keys"
+			],
+			[
+				"get_me",
+				"get_meta_tags"
+			],
+			[
+				"lvm_",
+				"lvm_people"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"p",
+				"post	@=post"
+			],
+			[
+				"js",
+				"json_fiels"
+			],
+			[
+				"k",
+				"key1"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"cpt_lv",
+				"cpt_lvm_people_unique_hash"
+			],
+			[
+				"sen",
+				"send_unique"
+			],
+			[
+				"add_",
+				"add_option"
+			],
+			[
+				"g",
+				"groups"
+			],
+			[
+				"u",
+				"unique"
+			],
+			[
+				"se",
+				"send_groups"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"meta",
+				"metadataUniqueFields"
+			],
+			[
+				"ret",
+				"retData"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"metada",
+				"metadataFields"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"fields",
+				"fields_url"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"fiel",
+				"fields_url"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"field",
+				"fieldLabel"
 			],
 			[
 				"data",
-				"data-dia"
+				"dataName"
 			],
 			[
-				"attrs",
-				"attributes"
+				"for",
+				"foreach	foreach …"
 			],
 			[
-				"mes",
-				"meses"
+				"para",
+				"param	@param"
 			],
 			[
-				"meses",
-				"mesesMin"
+				"in",
+				"input	input - text"
 			],
 			[
-				"ar",
-				"array_shift"
+				"inp",
+				"input	input - text"
 			],
 			[
-				"func",
-				"func_get_args"
+				"fo",
+				"form	Tag"
 			],
 			[
-				"ti",
-				"timing"
-			],
-			[
-				"bgs",
-				"background-size"
-			],
-			[
-				"ws",
-				"whs	white-space"
-			],
-			[
-				"to",
-				"top	top"
-			],
-			[
-				"l",
-				"lis	list-style"
-			],
-			[
-				"text-",
-				"text-indent"
-			],
-			[
-				"bgi",
-				"bgi	background-image: url(${0});"
-			],
-			[
-				"do",
-				"document"
-			],
-			[
-				"html",
-				"html	html"
-			],
-			[
-				"smtp",
-				"smtpReali"
-			],
-			[
-				"email",
-				"emailReali"
-			],
-			[
-				"utf",
-				"utf-8"
-			],
-			[
-				"iso",
-				"iso-8859-1"
-			],
-			[
-				"encod",
-				"utf8_encode"
-			],
-			[
-				"alt",
-				"altMsg"
-			],
-			[
-				"th",
-				"thiagoaslima"
-			],
-			[
-				"php",
-				"phpinfo"
-			],
-			[
-				"tm",
-				"tmpID"
+				"metabox",
+				"_metabox_title"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "scss/main2.scss",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 10348,
+				"buffer_size": 12125,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.php",
+			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 4654,
+				"buffer_size": 4389,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "pt.html",
+			"file": "js/main.0.1.js",
 			"settings":
 			{
-				"buffer_size": 13085,
+				"buffer_size": 989,
 				"line_ending": "Windows"
 			}
 		}
@@ -551,135 +403,15 @@
 		"selected_items":
 		[
 			[
-				"lo",
-				"Convert Case: Lower Case"
-			],
-			[
-				"fet",
-				"Fetch: Package"
-			],
-			[
-				"syntax php",
-				"Set Syntax: PHP"
-			],
-			[
-				"lowe",
-				"Convert Case: Lower Case"
-			],
-			[
-				"lorem",
-				"Snippet: Lorem ipsum"
-			],
-			[
-				"scss",
-				"Set Syntax: SCSS"
-			],
-			[
-				"diff",
-				"Set Syntax: Diff"
-			],
-			[
-				"Lor",
-				"Snippet: Lorem ipsum"
-			],
-			[
-				"lore",
-				"Snippet: Lorem ipsum"
-			],
-			[
-				"lower",
-				"Convert Case: Lower Case"
-			],
-			[
-				"case",
-				"Convert Case: Lower Case"
-			],
-			[
-				"theme",
-				"Snippet: Theme Head"
+				"pa",
+				"Package Control: Install Package"
 			],
 			[
 				"pac",
 				"Package Control: Install Package"
 			],
 			[
-				"en",
-				"Web encoder: HTML encode selection"
-			],
-			[
-				"html",
-				"Set Syntax: HTML5"
-			],
-			[
-				"enco",
-				"Web encoder: Url encode selection"
-			],
-			[
-				"css",
-				"Set Syntax: CSS"
-			],
-			[
-				"low",
-				"Convert Case: Lower Case"
-			],
-			[
-				"U",
-				"Convert Case: Upper Case"
-			],
-			[
-				"UPP",
-				"Convert Case: Upper Case"
-			],
-			[
-				"CASE",
-				"Convert Case: Upper Case"
-			],
-			[
-				"html s",
-				"HTML: Encode Special Characters"
-			],
-			[
-				"pa",
-				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Package Control: Install Package"
-			],
-			[
-				"co",
-				"Package Control: Install Package"
-			],
-			[
-				"linter",
-				"SublimeLinter: Extract Annotations"
-			],
-			[
-				"lis",
-				"Package Control: List Packages"
-			],
-			[
-				"setT",
-				"Snippet: setTimeout function"
-			],
-			[
-				"enc",
-				"HTML: Encode Special Characters"
-			],
-			[
-				"meta",
-				"Snippet: LVM: Add metabox"
-			],
-			[
-				"met",
-				"Snippet: LVM: Add metabox"
-			],
-			[
-				"cpt",
-				"Snippet: LVM: Register CPT + MetaBox"
-			],
-			[
-				"in",
+				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -711,6 +443,14 @@
 				"Snippet: DOCTYPE HTML"
 			],
 			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
 				"package",
 				"Package Control: Install Package"
 			],
@@ -739,11 +479,19 @@
 				"Convert Case: Upper Case"
 			],
 			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
 				"git",
 				"GitHub: Open Gist in Editor"
 			],
 			[
 				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fet",
 				"Fetch: Package"
 			],
 			[
@@ -759,8 +507,24 @@
 				"Convert Case: Title Case"
 			],
 			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
 				"cas",
 				"Convert Case: Title Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
 			],
 			[
 				"tas",
@@ -841,10 +605,6 @@
 			[
 				"synta htm",
 				"Set Syntax: HTML"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"SNI WOR",
@@ -939,6 +699,10 @@
 				"Set Syntax: PHP"
 			],
 			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
 				"",
 				"Package Control: Install Package"
 			],
@@ -971,7 +735,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 368.0
 	},
 	"console":
 	{
@@ -988,134 +752,134 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/dev/tecsis2.dev/css/fontello.css",
-		"/C/xampp/htdocs/dev/tecsis2.dev/pt.html",
-		"/C/xampp/htdocs/dev/tecsis2.dev/es.html",
-		"/C/xampp/htdocs/dev/tecsis2.dev/css/fontello-ie7-codes.css",
-		"/C/xampp/htdocs/dev/tecsis2.dev/css/fontello-ie7.css",
-		"/C/xampp/htdocs/dev/tecsis2.dev/css/fontello-6a6c9b09/fontello-6a6c9b09/css/fontello.css",
-		"/C/xampp/htdocs/dev/tecsis2.dev/css/fontello-6a6c9b09/fontello-6a6c9b09/css/fontello-embedded.css",
-		"/C/xampp/htdocs/dev/tecsis2.dev/css/fontello-6a6c9b09/fontello-6a6c9b09/css/fontello-ie7-codes.css",
-		"/C/xampp/htdocs/dev/fabulosos.dev/scss/main.scss",
-		"/C/xampp/htdocs/dev/fabulosos.dev/scss/variables.scss",
-		"/C/xampp/htdocs/dev/fabulosos.dev/index.html",
-		"/C/Users/Thiago/Downloads/8 - 2 - XPath demo (22 min).srt",
-		"/C/Windows/System32/drivers/etc/hosts",
+		"/F/siteTecsis/t/js/jquery-sizzle-65b2e6c/sizzle.js",
+		"/F/siteTecsis/t/js/jquery-sizzle-65b2e6c/grunt.js",
+		"/C/xampp/htdocs/dev/tecsis-mini/index.html",
 		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
-		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/08_agosto/papelaria/cartoes/cartoes_2013_02_20.txt",
-		"/C/Users/Thiago/Downloads/svg_4199.zip",
-		"/C/xampp/htdocs/dev/fabulosos.dev/css/fabulosos-symbols34821/style.css",
-		"/C/xampp/htdocs/dev/fabulosos.dev/css/lte-ie7.js",
-		"/C/xampp/htdocs/dev/fabulosos.dev/css/style.css",
-		"/C/xampp/htdocs/dev/fabulosos.dev/css/icomoon16794/icomoon16794/index.html",
-		"/C/xampp/htdocs/dev/fabulosos/scss/variables.scss",
-		"/C/xampp/htdocs/dev/fabulosos/scss/main.scss",
-		"/C/xampp/htdocs/dev/fabulosos/index.html",
-		"/C/Users/Thiago/.ssh/config",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/index.php",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/index.php",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/servicos.html",
-		"/C/Users/Thiago/Downloads/Valentino na Época Cosméticos Perfumaria_files/flashDetect.min.js",
-		"/C/xampp/htdocs/dev/Valentino na Época Cosméticos Perfumaria_files/flashDetect.min.js",
-		"/C/Users/Thiago/.ssh/known_hosts",
-		"/C/Users/Thiago/Downloads/Valentino na Época Cosméticos Perfumaria.htm",
-		"/C/Users/Thiago/Downloads/Valentino na Época Cosméticos Perfumaria_files/flashDetect2.js",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/equipe.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/fontawesome.scss",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/news.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/noticias.html",
-		"/C/Users/Thiago/.ssh/id_rsa.lgbeauty.pub",
-		"/C/Users/Thiago/.ssh/id_rsa.lgbeauty",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/humans.txt",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/css/fontawesome.css",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/main.scss",
-		"/C/Users/Thiago/.ssh/id_rsa",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/home.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/build/news/index.php",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/css/FortAwesome-Font-Awesome-13d5dd3/css/font-awesome-ie7.min.css",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/css/main.css",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/variables.scss",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/equipe.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/news.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/news/unhasposticas.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/news/prioridadesblog.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/home.html",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/.htaccess",
-		"/C/xampp/htdocs/dev/tecsis1.dev/.htaccess",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/index.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/index.php",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/normalize.scss",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/css/FortAwesome-Font-Awesome-13d5dd3/sass/font-awesome.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/header.php",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/footer.php",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/main.scss",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/css/customfont/fontawesome.scss",
-		"/C/xampp/htdocs/dev/lgbeauty2.dev/header.php",
-		"/C/xampp/htdocs/dev/h5bp/README.md",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/css/main3.css",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/lgbeauty_variables.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/main3.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/build/css/scss/main3.css",
-		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/09_setembro/certificados curso Lideranca/5a turma/names.xml",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/d",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/servicos2.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/index3.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/th_helpers.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/index.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/main2.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/index2.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/servicos.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/index3.html",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/.gitignore",
-		"/C/xampp/htdocs/dev/erica.dev/index.html",
-		"/C/xampp/htdocs/dev/erica.dev/.gitignore",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/normalize.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/css/normalize.css",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/css/main.css",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/h5bp_helpers.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/h5bp_print.scss",
-		"/C/xampp/htdocs/dev/lgbeauty.dev/config.rb",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/sass.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/bg.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/main2_001.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/abl2.html",
-		"/C/xampp/htdocs/dev/thlima.dev/css/main2_001.css",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/xampp/htdocs/dev/thlima.dev/css/sass.css",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/normalize.scss",
-		"/C/Users/Thiago/Downloads/HarryPotter/Harry.Potter.And.The.Deathly.Hallows.Part.1.720p.BRRip.XviD.AC3-ViSiON.srt",
-		"/C/Users/Thiago/Downloads/harry.potter.and.the.deathly.hallows.part.2.(2011).por.1cd.(4458446)/Harry.Potter.And.The.Deathly.Hallows.Part.2.PROPER.1080p.BluRay.X264-BLOW-por.srt",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/main2.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/main.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/ie.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/index.html",
-		"/C/xampp/htdocs/dev/thlima.dev/js/main.js",
-		"/C/xampp/htdocs/dev/thlima.dev/i2.html",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/main3.scss",
-		"/C/Users/Thiago/Desktop/a.html",
-		"/C/xampp/htdocs/dev/thlima.dev/css/main.css",
-		"/C/Users/Thiago/Downloads/Roboto.css",
-		"/C/xampp/htdocs/dev/thlima.dev/css/normalize.css",
-		"/C/xampp/htdocs/dev/thlima.dev/css/stylesheet.css",
-		"/C/xampp/htdocs/dev/thlima.dev/scss/main4.scss",
-		"/C/xampp/htdocs/dev/thlima.dev/css/main4.css",
-		"/G/Dev/thlima.dev/index.html",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Lvm/text-field.sublime-snippet",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Lvm/data-field.sublime-snippet",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Lvm/text-field.sublime-snipett",
-		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Emmet Css Snippets/Sass/Border/bd+.sublime-snippet",
-		"/C/xampp/sendmail/source/sendmail.dpr",
-		"/C/xampp/sendmail/source/sendmail.mes",
-		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/akismet/index.php",
-		"/C/xampp/htdocs/dev/lvm.dev/.htaccess",
-		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm/index.html",
-		"/C/xampp/htdocs/dev/erica.dev/scss/main.scss",
-		"/C/xampp/htdocs/dev/erica.dev/js/lib/modernizr.custom.70798.js",
-		"/C/xampp/htdocs/dev/erica.dev/scss/h5bp.css",
-		"/C/xampp/htdocs/dev/erica.dev/scss/normalize.css"
+		"/F/siteTecsis/t/t.html",
+		"/F/siteTecsis/t/css/main.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/dev/html/index.html",
+		"/C/Users/Lina/Documents/Thiago/cantao/cantao/emkt/html/i/socialbtn.html",
+		"/C/Users/Lina/Documents/Thiago/sendcantao.php",
+		"/C/Users/Lina/.ssh/github_rsa",
+		"/C/Users/Lina/.ssh/github_rsa.pub",
+		"/C/Users/Lina/.ssh/known_hosts",
+		"/C/Users/Lina/Desktop/index.html",
+		"/C/xampp/htdocs/dev/html/.gitignore",
+		"/C/xampp/htdocs/dev/html/cantaoVerao.max.html",
+		"/C/xampp/htdocs/dev/html/cantaoVerao.html",
+		"/C/Users/Lina/Documents/Thiago/cantao/cantao/emkt/html/cantaoVerao.html",
+		"/C/xampp/htdocs/index.html",
+		"/F/erica/site/css/normalize.css",
+		"/C/Users/Lina/Desktop/logo.svg",
+		"/C/xampp/htdocs/lvm.dev/wp-content/plugins/lvm_cpt/css/lvm_people_styles.css",
+		"/C/xampp/htdocs/lvm.dev/wp-content/plugins/lvm_cpt/inc/metaboxes/people/dados-pessoais.php",
+		"/C/xampp/htdocs/lvm.dev/wp-content/plugins/lvm_cpt/js/lvm_people_form.js",
+		"/C/xampp/htdocs/lvm.dev/wp-content/plugins/lvm_cpt/inc/metaboxes/people/contatos-save.php",
+		"/C/xampp/htdocs/lvm.dev/wp-content/plugins/lvm_cpt/lvm_people_admin_settings.php",
+		"/C/xampp/htdocs/lvm.dev/wp-content/plugins/lvm_cpt/inc/metaboxes/people/contatos.php",
+		"/C/xampp/htdocs/dev/lvm_people_form.php",
+		"/C/Users/Thiago/Desktop/coursera/Python/a3/a3.py",
+		"/C/Users/Thiago/Downloads/Visual Complexity - Mapping Patterns of Information PDF.pdf",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/metaboxes/people/contatos-tmp.html",
+		"/C/Users/Thiago/Downloads/InTreatment/In_Treatment___Season_1__complete/ssa/InTreat_s1e02.ssa",
+		"/C/Users/Thiago/Downloads/InTreatment/In_Treatment___Season_1__complete/ssa/InTreat_s1e01.ssa",
+		"/C/Users/Thiago/Downloads/InTreatment/In_Treatment___Season_1__complete/InTreat_s1e01.srt",
+		"/C/VirtualDub/demo.ssa",
+		"/C/Users/Thiago/Downloads/InTreatment/In_Treatment___Season_1__complete/ssa/InTreat_s1e03.ssa",
+		"/C/Users/Thiago/Downloads/InTreatment/In_Treatment___Season_1__complete/ssa/InTreat_s1e04.ssa",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/46_out-30/pagina/index.html",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e09.srt",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/08_agosto/clima/pecas/emkt/index.html",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/46_out-30/mail mkt/index.html",
+		"/C/Users/Thiago/Desktop/smail.php",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/09_setembro/certificados curso Lideranca/2a turma/names.xml",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-config.php",
+		"/C/xampp/htdocs/dev/lvm.dev/php-errors.log",
+		"/C/Users/Thiago/Desktop/sendemail.php",
+		"/C/Users/Thiago/Downloads/curriculo.xml",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/metaboxes/people/contatos_templates.html",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/09_setembro/certificados curso Lideranca/3a turma/names.xml",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-admin/admin.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-admin/edit-form-advanced.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/languages/admin-pt_BR.po",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/languages/admin-pt_BR.mo",
+		"/c/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/.git/COMMIT_EDITMSG",
+		"/C/xampp/htdocs/dev/array.php",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Wordpress/LVM_Snippets/lvm-cpt-save-metadata.sublime-snippet",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/metaboxes/contatos.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/metaboxes/dados-pessoais.php",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/CSScomb/Default (Windows).sublime-keymap",
+		"/C/Users/Thiago/Downloads/bootstrap/css/bootstrap.css",
+		"/C/Users/Thiago/.bashrc",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Wordpress/LVM_Snippets/lvm-cpt-and-metabox-start.sublime-snippet",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Wordpress/LVM_Snippets/lvm-cpt-admin-add-metabox.sublime-snippet",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/fields/lvm_text_field.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/fields/lvm_boolean_field.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/fields/lvm_url_field.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/_lvm_cpt_plugin/lvm_people_admin_settings.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/.git/COMMIT_EDITMSG",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/dados gerais/plantas.txt",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/.git/HEAD",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/.git/config",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/.gitignore",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/lvm_people_admin_settings.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/inc/lvm_admin_fields.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt_plugin/lvm_cpt.sublime-project",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e9.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e4.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e8.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e3.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e6.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e7.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e1.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/leg_en/e5.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e04.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e06.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e08.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e05.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e07.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e10.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e02.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e03.srt",
+		"/C/Users/Thiago/Desktop/Borgias S2/leg/e01.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e8.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e9.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e4.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e7.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e6.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e1.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e5.srt",
+		"/C/Users/Thiago/Desktop/Borgias S1/e3.srt",
+		"/C/Users/Thiago/Desktop/e6.srt",
+		"/C/Users/Thiago/Downloads/thbgistemp (3)/The Borgias  2ª Temporada720p [www.baixartorrent.net]/The.Borgias.S02E04.720p.HDTV.x264-IMMERSE.srt",
+		"/C/Users/Thiago/Downloads/The Borgias Season 1 Complete 720p/The.Borgias.S01E01.720p.HDTV.x264.srt",
+		"/C/Users/Thiago/Downloads/The.Borgias.S02E06.REPACK.720p.HDTV.x264-IMMERSE [PublicHD]/the.borgias.s02e06.repack.720p.hdtv.x264-immerse.nfo",
+		"/C/Users/Thiago/Downloads/[ www.Speed.Cd ] - The.Borgias.S02E05.720p.HDTV.x264-IMMERSE/the.borgias.s02e05.720p.hdtv.x264-immerse.sfv",
+		"/C/Users/Thiago/Desktop/coursera/PythonInteractive/ass1/begin.py",
+		"/C/xampp/htdocs/dev/people.js",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/08_agosto/papelaria/cartoes1/gerentes.txt",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/endereçoPlantas.xml",
+		"/C/Users/Thiago/Downloads/Houaiss eletrônico [3.0] (2009)/FHS-21570589",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/plantas.txt",
+		"/C/Users/Thiago/Downloads/master.atom.webintents",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/plantas.csv",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_custom_post_types/developing.TODO",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Todo Manager/README.md",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/TodoManager.sublime-settings",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/TodoManager/TodoManager.sublime-settings",
+		"/C/Users/Thiago/Google Drive/programming/javascript/backbone-fundamentals.epub",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/45_out-15/mail mkt/index.html",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/45_out-15/pagina/index.html",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/sendemail.php",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Wordpress/LVM_Snippets/lvm-text-field-unique.sublime-snippet",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Wordpress/LVM_Snippets/lvm-cpt-metabox-autoSave.sublime-snippet",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/Gist.sublime-settings"
 	],
 	"find":
 	{
@@ -1133,134 +897,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"left",
-			"../",
-			"fabulosos",
-			"joe",
-			"tecsis1",
-			"  ",
-			"h3",
-			"<p>",
-			"(function (W){\n\n    var i = 0;\n    \n    (function reviewSwf(){\n        \n        'use strict';\n        \n        if (W.$){\n            \n            // W.console.log(\"plug and play!\", i);\n\n            var HTMLobj = $('object').filter('[type=\"application/x-shockwave-flash\"]'),\n                $ = W.$,\n                flashBlockDetect = function(callbackMethod){\n                    var return_value = 0,\n                        embed_length,\n                        object_length;\n\n                    if ( W.navigator.plugins[\"Shockwave Flash\"] ) {\n                        if (W.navigator.userAgent.indexOf('MSIE') > -1) {\n                            try {\n                              new W.ActiveXObject('ShockwaveFlash.ShockwaveFlash');\n                            } catch (e) {\n                              return_value = 2;\n                            }\n                        } else {\n                            embed_length = $('embed').length;\n                            object_length = $('object').length;\n                            if( (embed_length > 0) || (object_length > 0) ){\n                                /* Mac / Chrome using FlashBlock + Mac / Safari using AdBlock */\n                                $('object, embed').each(function() {\n                                  if( $(this).css('display') === 'none' ){\n                                    return_value = 2;\n                                    }\n                                });         \n                            } else {\n                                /* Mac / Firefox using FlashBlock */\n                                if( $('div[bginactive]').length > 0 ){\n                                  return_value = 2;\n                                }\n                            }\n                        }\n                    } else {\n                        /* If flash is not installed */  \n                        return_value = 1;\n                    }\n\n                    if (callbackMethod && typeof(callbackMethod) === \"function\") {\n                        callbackMethod(return_value);\n                    } else {\n                      return return_value;\n                    }\n                };\n\n            if(HTMLobj.length > 0){\n                var teste = W.flashBlockDetect();\n\n                if(teste !== 0){\n                  HTMLobj.each(function(){\n                    var parent = $(this).parent(),\n                        imgSrc = $(parent).attr('data-imgsrc'),\n                        bgImgUrl = 'url(\"' + imgSrc + '\")';\n\n                    $(this).css('display','none');\n                    parent.css('background-image', bgImgUrl);\n                  });\n                }\n            }\n        } else {\n            i += 1;\n            // W.console.log(\"ainda não\", \"tentativa:\", i);\n\n            if (i < 10) {\n                W.setTimeout(reviewSwf, 20*i);\n            }\n        }\n    }());\n\n}(this));",
-			"*",
-			"bodyClass",
-			"bodyId",
-			"debut",
-			"lt",
-			"src=\"",
-			".png",
-			"34",
-			".4",
+			"5%",
+			"221em",
+			"165.75em",
+			"110.5em",
+			"55.25em",
+			"100%",
+			"80%",
+			"60%",
+			"40%",
+			"20%",
+			";\n }",
+			"{\n   l",
+			"20",
+			";\n }",
+			"{\n    l",
+			"{",
+			"50s",
+			"spinroll",
+			"200em",
+			"carrossel",
+			"linear 0s",
 			"2s",
-			"1s",
-			".c",
-			".",
-			"}",
-			"equi",
-			"lt-ie",
+			"=\"i",
+			"São Paulo",
+			"img",
+			"img ",
+			"img",
+			"</td>\n			</a>",
+			"i/",
+			"a href=\"http://www.cantao.com.br/default.aspx?ref=logo\"",
 			"a href",
-			".lt-ie",
-			"id=\"home\"",
-			"home",
-			"4px",
-			"html",
-			";\n",
-			"darkRed",
-			"red",
-			"logo_v",
-			"darkred",
-			"html",
-			"255",
-			"html",
-			"darkRed",
-			"darkred",
-			"1px",
-			"px",
-			"inner",
-			".",
-			"visua",
-			"thlima",
-			"#worktitle",
-			"bkp",
-			".inline",
-			"inline",
-			"extend",
-			" extend",
-			" @extend",
-			"extend .g",
-			".g",
-			"visuallyhidden",
-			"flft",
-			"clearfix",
-			"Clearfix",
-			"clearfix",
-			"extend",
-			".g",
-			"col",
-			"larg",
+			"a style",
+			"; vertical-align: top",
+			"15",
+			"18",
+			"=\"5\"",
+			"_05",
+			"5",
+			"17",
+			"19",
+			"height=\"49\"",
+			"transform",
+			"127.0.0.1",
+			"[\"boolean\"]",
+			"\"tipo\"",
+			"'_lvm_people_'. $contato . '_n'",
+			"tipo",
+			"tipo_",
+			"obj.hasClass",
+			"getContato(obj)",
+			"cit",
+			"cit ",
+			"cit",
+			"prep",
+			"sobreSep.length-1",
+			"$tmp",
+			" == ",
+			"==",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"!=",
+			"45",
+			"br",
+			"Público\n        </span>",
+			" Público\n        </span>",
+			"xlarge",
+			"$n",
+			"n",
+			"person",
+			"\n",
+			"lvm_people_emails_n",
+			"\n    <div class=\"",
+			"\n    <div class=",
+			"<?php",
 			"</p>",
-			"14",
-			"12",
-			"gray",
-			"ul",
-			"            \n",
-			"0.5s",
-			"1.2s",
-			"2s",
-			"5s",
-			"1s",
-			"up",
-			"min",
-			"Include",
-			"include",
-			"768up",
-			"Include",
-			"include",
-			"min",
-			"block",
-			"url('",
-			"div",
-			"rotate(45deg)",
-			".5",
-			"scale(2)",
-			"block",
-			"45deg",
-			"center",
-			"></div",
+			"<p>",
+			"Featured",
+			"Imagem Destacada",
+			"||",
+			"-1",
+			"--ii",
+			"nomeSep[i]",
+			"id",
+			"<small>",
+			"hide",
+			"*",
+			"text-align",
+			"inline-block",
+			"-webkit-",
+			"aDown",
+			"arrow-down",
+			"options",
 			"ease-in",
-			"figure",
-			"<span></span>",
-			"class=\"justElem\"",
-			"$verde",
-			"    \n",
-			"ul",
-			"$azulClaro",
-			"$azulclaro",
-			"$azulClaro",
-			"pt",
-			"$cinza",
-			"cinza",
-			"nav",
-			"inherit",
-			"justifyContent",
-			"elem\"",
-			"elem",
-			"<!-- \n                 -->",
-			"erica",
-			"(%[0-9])\\$s",
-			"%[0-9](\\$)s",
-			"\\%[0-9]+\\$\\s",
-			"%[0-9]+$s",
-			"$s",
-			"printf",
-			"%",
-			",",
-			"\"name\"])",
-			"dia",
-			"font",
-			"dia",
-			"=>",
-			"Masculino"
+			"top",
+			".5s",
+			"1s",
+			"100",
+			"D5D5D5",
+			"C",
+			"<br>",
+			"div",
+			"option",
+			"margin",
+			"large",
+			"Visível para todos.",
+			"<br>",
+			"margin: 0 3px;",
+			"xlarge",
+			"padding-left: 3px;",
+			"width",
+			"padding-left: 3px;",
+			"margin-left:",
+			"!important",
+			";",
+			"lvm_contatos mezzo",
+			"small",
+			"preencha o campo com",
+			"xlarge",
+			"label small",
+			"small",
+			"input",
+			"email"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1268,11 +1032,7 @@
 		"regex": false,
 		"replace_history":
 		[
-			"$header",
-			"$1\\\\\\$s",
-			"%[0-9](\\\\\\$)s",
-			"(\\$)",
-			"\\$",
+			"SP",
 			"</data><nome>",
 			"</nome><data>",
 			"</nome>\n<data>()</data><nome>",
@@ -1292,350 +1052,89 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "scss/main2.scss",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 10348,
+						"buffer_size": 12125,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6570,
-								6597
+								440,
+								440
 							]
 						],
 						"settings":
 						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 1,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": true,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4995.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.php",
+					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 4654,
+						"buffer_size": 4389,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4363,
-								4363
+								2738,
+								2738
 							]
 						],
 						"settings":
 						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 1,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": true,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1248.0,
+						"translation.y": 2365.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 2,
-					"file": "pt.html",
+					"file": "js/main.0.1.js",
 					"settings":
 					{
-						"buffer_size": 13085,
+						"buffer_size": 989,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								182,
-								182
+								275,
+								290
 							]
 						],
 						"settings":
 						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 1,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": true,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1663,11 +1162,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1718,6 +1224,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 179.0,
+	"side_bar_width": 211.0,
 	"status_bar_visible": true
 }
