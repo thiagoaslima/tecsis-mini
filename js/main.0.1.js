@@ -2,7 +2,6 @@
 // by thiago lima <thiagoaslima@gmail.com>
 
 (function(win, doc, $, Mod){
-	console.log($('html').hasClass("cssanimations"))
 
 	if(!$('html').hasClass("cssanimations")){
 		var count = 0,
@@ -20,12 +19,11 @@
 				}
 				r = win.setTimeout(spin, 4500);
 			});
-		}
+		};
 
 		r = win.setTimeout(spin, 0);
 		win.spin = r;
-	};
-
+	}
 
 	if(!Mod.mq('only all')) {
 		var $win = $(win);
@@ -42,7 +40,29 @@
 			} else {
 				$('body').css('fontSize','130%');
 			}
-		})
+		});
 	}
 
-}(this, this.document, this.jQuery, this.Modernizr))
+	if (!Mod.input.placeholder) {
+		$('[placeholder]').each(function() {
+			var field = $(this),
+				v = field.attr('placeholder');
+			console.log(v);
+
+			if(field.val() === ""){
+				field
+					.val(v)
+					.on('focus', function(){
+						field.val("");
+					})
+					.on('blur', function(){
+						if($.trim(field.val()) === ""){
+							field.val(v);
+						}
+					});
+			}
+		});
+
+	}
+
+}(this, this.document, this.jQuery, this.Modernizr));
