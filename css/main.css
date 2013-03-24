@@ -180,7 +180,7 @@ textarea {
 #fotos .mask {
 	position: absolute;
 	top:0; left:0;
-	width: 276.25em;
+	width: 331.5em;
 	white-space: nowrap;
 }
 #fotos img {
@@ -197,96 +197,97 @@ textarea {
  0% {left: 0;}
  15% {left: 0;}
 
- 20% {left: -55.25em;}
- 35% {left: -55.25em;}
+ 20% {left: -100%;}
+ 35% {left: -100%;}
  
- 40% {left: -110.5em;}
- 55% {left: -110.5em;}
+ 40% {left: -200%;}
+ 55% {left: -200%;}
  
- 60% {left: -165.75em;}
- 75% {left: -165.75em;}
+ 60% {left: -300%;}
+ 75% {left: -300%;}
  
- 80% {left: -221em;}
- 95% {left: -221em;}
+ 80% {left: -400%;}
+ 95% {left: -400%;}
  
- 100% {left: -276.25em;}
+ 100% {left: -500%;}
 }
 
 @-moz-keyframes carrossel {
- 0% {left: 0;}
+  0% {left: 0;}
  15% {left: 0;}
+
+ 20% {left: -100%;}
+ 35% {left: -100%;}
  
- 20% {left: -55.25em;}
- 35% {left: -55.25em;}
+ 40% {left: -200%;}
+ 55% {left: -200%;}
  
- 40% {left: -110.5em;}
- 55% {left: -110.5em;}
+ 60% {left: -300%;}
+ 75% {left: -300%;}
  
- 60% {left: -165.75em;}
- 75% {left: -165.75em;}
+ 80% {left: -400%;}
+ 95% {left: -400%;}
  
- 80% {left: -221em;}
- 95% {left: -221em;}
- 
- 100% {left: -276.25em;}
+ 100% {left: -500%;}
 }
 
 @-webkit-keyframes "carrossel" {
  0% {left: 0;}
  15% {left: 0;}
+
+ 20% {left: -100%;}
+ 35% {left: -100%;}
  
- 20% {left: -55.25em;}
- 35% {left: -55.25em;}
+ 40% {left: -200%;}
+ 55% {left: -200%;}
  
- 40% {left: -110.5em;}
- 55% {left: -110.5em;}
+ 60% {left: -300%;}
+ 75% {left: -300%;}
  
- 60% {left: -165.75em;}
- 75% {left: -165.75em;}
+ 80% {left: -400%;}
+ 95% {left: -400%;}
  
- 80% {left: -221em;}
- 95% {left: -221em;}
- 
- 100% {left: -276.25em;}
+ 100% {left: -500%;}
 }
 
 @-ms-keyframes "carrossel" {
  0% {left: 0;}
  15% {left: 0;}
+
+ 20% {left: -100%;}
+ 35% {left: -100%;}
  
- 20% {left: -55.25em;}
- 35% {left: -55.25em;}
+ 40% {left: -200%;}
+ 55% {left: -200%;}
  
- 40% {left: -110.5em;}
- 55% {left: -110.5em;}
+ 60% {left: -300%;}
+ 75% {left: -300%;}
  
- 60% {left: -165.75em;}
- 75% {left: -165.75em;}
+ 80% {left: -400%;}
+ 95% {left: -400%;}
  
- 80% {left: -221em;}
- 95% {left: -221em;}
- 
- 100% {left: -276.25em;}
+ 100% {left: -500%;}
 }
 
 @-o-keyframes "carrossel" {
  0% {left: 0;}
  15% {left: 0;}
+
+ 20% {left: -100%;}
+ 35% {left: -100%;}
  
- 20% {left: -55.25em;}
- 35% {left: -55.25em;}
+ 40% {left: -200%;}
+ 55% {left: -200%;}
  
- 40% {left: -110.5em;}
- 55% {left: -110.5em;}
+ 60% {left: -300%;}
+ 75% {left: -300%;}
  
- 60% {left: -165.75em;}
- 75% {left: -165.75em;}
+ 80% {left: -400%;}
+ 95% {left: -400%;}
  
- 80% {left: -221em;}
- 95% {left: -221em;}
- 
- 100% {left: -276.25em;}
+ 100% {left: -500%;}
 }
+
 
 
 @media all and (max-width: 1240px) and (min-width: 1025px) {

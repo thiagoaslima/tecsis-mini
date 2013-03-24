@@ -119,6 +119,7 @@ h1, h2, h3, h4, h5 {
 	font-style: normal;
 	color: #006991;
 	text-transform: uppercase;
+    text-shadow: 0 1px 1px white;
 }
 
 /**
