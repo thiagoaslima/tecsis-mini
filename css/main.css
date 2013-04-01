@@ -69,7 +69,7 @@ nav > ul > li {
 }
 
 #fotos {
-	width: 55.25em;
+	width: 98.5%;
 	height: 17.5em;
 	background-color: rgb(240,240,240); /*APAGAR*/
 	border: 1px solid white;
@@ -188,111 +188,120 @@ textarea {
 }
 
 .mask {
+	-webkit-transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-o-transform: translate3d(0,0,0);
+	-ms-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+
 	-webkit-animation: carrossel 30s infinite;
 	-moz-animation: carrossel 30s infinite;
 	-ms-animation: carrossel 30s infinite;
 	-o-animation: carrossel 30s infinite;
-	animation: carrossel 30s infinite;
-}
-
-@keyframes "carrossel" {
- 0% {left: 0;}
- 15% {left: 0;}
- 
- 20% {left: -100%;}
- 35% {left: -100%;}
- 
- 40% {left: -200%;}
- 55% {left: -200%;}
- 
- 60% {left: -300%;}
- 75% {left: -300%;}
- 
- 80% {left: -400%;}
- 95% {left: -400%;}
- 
- 100% {left: -500%;}
+	animation: carrossel 30s infinite;	
 }
 
 @-moz-keyframes carrossel {
- 0% {left: 0;}
- 15% {left: 0;}
+  0% {-moz-transform: translateX(0);}
+ 15% {-moz-transform: translateX(0);}
  
- 20% {left: -100%;}
- 35% {left: -100%;}
+ 20% {-moz-transform: translateX(-20%);}
+ 35% {-moz-transform: translateX(-20%);}
  
- 40% {left: -200%;}
- 55% {left: -200%;}
+ 40% {-moz-transform: translateX(-40%);}
+ 55% {-moz-transform: translateX(-40%);}
  
- 60% {left: -300%;}
- 75% {left: -300%;}
+ 60% {-moz-transform: translateX(-60%);}
+ 75% {-moz-transform: translateX(-60%);}
  
- 80% {left: -400%;}
- 95% {left: -400%;}
+ 80% {-moz-transform: translateX(-80%);}
+ 95% {-moz-transform: translateX(-80%);}
  
- 100% {left: -500%;}
+ 100% {-moz-transform: translateX(-100%);}
 }
 
-@-webkit-keyframes "carrossel" {
- 0% {left: 0;}
- 15% {left: 0;}
+@-webkit-keyframes carrossel {
+ 0% {-webkit-transform: translateX(0);}
+ 15% {-webkit-transform: translateX(0);}
  
- 20% {left: -100%;}
- 35% {left: -100%;}
+ 20% {-webkit-transform: translateX(-20%);}
+ 35% {-webkit-transform: translateX(-20%);}
  
- 40% {left: -200%;}
- 55% {left: -200%;}
+ 40% {-webkit-transform: translateX(-40%);}
+ 55% {-webkit-transform: translateX(-40%);}
  
- 60% {left: -300%;}
- 75% {left: -300%;}
+ 60% {-webkit-transform: translateX(-60%);}
+ 75% {-webkit-transform: translateX(-60%);}
  
- 80% {left: -400%;}
- 95% {left: -400%;}
+ 80% {-webkit-transform: translateX(-80%);}
+ 95% {-webkit-transform: translateX(-80%);}
  
- 100% {left: -500%;}
+ 100% {-webkit-transform: translateX(-100%);}
 }
 
-@-ms-keyframes "carrossel" {
- 0% {left: 0;}
- 15% {left: 0;}
+@-ms-keyframes carrossel {
+  0% {-ms-transform: translateX(0);}
+ 15% {-ms-transform: translateX(0);}
  
- 20% {left: -100%;}
- 35% {left: -100%;}
+ 20% {-ms-transform: translateX(-20%);}
+ 35% {-ms-transform: translateX(-20%);}
  
- 40% {left: -200%;}
- 55% {left: -200%;}
+ 40% {-ms-transform: translateX(-40%);}
+ 55% {-ms-transform: translateX(-40%);}
  
- 60% {left: -300%;}
- 75% {left: -300%;}
+ 60% {-ms-transform: translateX(-60%);}
+ 75% {-ms-transform: translateX(-60%);}
  
- 80% {left: -400%;}
- 95% {left: -400%;}
+ 80% {-ms-transform: translateX(-80%);}
+ 95% {-ms-transform: translateX(-80%);}
  
- 100% {left: -500%;}
+ 100% {-ms-transform: translateX(-100%);}
 }
 
-@-o-keyframes "carrossel" {
- 0% {left: 0;}
- 15% {left: 0;}
+@-o-keyframes carrossel {
+ 0% {-o-transform: translateX(0);}
+ 15% {-o-transform: translateX(0);}
  
- 20% {left: -100%;}
- 35% {left: -100%;}
+ 20% {-o-transform: translateX(-20%);}
+ 35% {-o-transform: translateX(-20%);}
  
- 40% {left: -200%;}
- 55% {left: -200%;}
+ 40% {-o-transform: translateX(-40%);}
+ 55% {-o-transform: translateX(-40%);}
  
- 60% {left: -300%;}
- 75% {left: -300%;}
+ 60% {-o-transform: translateX(-60%);}
+ 75% {-o-transform: translateX(-60%);}
  
- 80% {left: -400%;}
- 95% {left: -400%;}
+ 80% {-o-transform: translateX(-80%);}
+ 95% {-o-transform: translateX(-80%);}
  
- 100% {left: -500%;}
+ 100% {-o-transform: translateX(-100%);}
+}
+
+@keyframes carrossel {
+  0% {transform: translateX(0);}
+ 15% {transform: translateX(0);}
+ 
+ 20% {transform: translateX(-20%);}
+ 35% {transform: translateX(-20%);}
+ 
+ 40% {transform: translateX(-40%);}
+ 55% {transform: translateX(-40%);}
+ 
+ 60% {transform: translateX(-60%);}
+ 75% {transform: translateX(-60%);}
+ 
+ 80% {transform: translateX(-80%);}
+ 95% {transform: translateX(-80%);}
+ 
+ 100% {transform: translateX(-100%);}
 }
 
 
-
-
+@media all and (max-width: 1024px) {
+	body{
+		font-size: 100%;
+	}
+}
 @media all and (max-width: 1240px) and (min-width: 1025px) {
 	body{
 		font-size: 110%;
