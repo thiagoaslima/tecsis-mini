@@ -147,6 +147,8 @@ h4 {
 	font-size: 0.75em;
     line-height: 1.5em;
 	margin-bottom: 0;
+    *margin-bottom: 0.2em;
+    *margin-top: 1.2em;
 	color: #666;
 }
 
