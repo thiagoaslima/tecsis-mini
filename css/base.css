@@ -130,11 +130,12 @@ h1, h2, h3, h4, h5 {
 h1 {
     font-size: 1em;
     margin: 0;
+    *margin-right: 10px;
 }
 
 h2 {
 	font-size: 1em;
-	margin-bottom: 0.9375em;
+	margin: 0;
 }
 
 h3 {
