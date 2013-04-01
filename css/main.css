@@ -117,7 +117,7 @@ footer {
 
 footer span {
 	display: inline;
-	line-height: 0.9em;
+	line-height: 1.1em;
 }
 
 #localizacao {
@@ -150,6 +150,7 @@ input, textarea {
 	border: 1px solid #F7F7F7;
 	margin-bottom: 1em;
 	padding: 1em 0.5em;
+	*padding: 0.5em 0.2em;
 }
 input:focus, textarea:focus {
 	outline: 1px solid white;
