@@ -22,7 +22,6 @@
 				$mask.css('left', 0);
 				count = 1;
 			}
-			win.console.log(width);
 			r = win.setTimeout(spin, 4000);
 		});
 	};
