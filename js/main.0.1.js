@@ -3,43 +3,58 @@
 
 (function(win, doc, $, Mod){
 
+	'use strict';
+
+	var count = 0,
+		$win = $(win),
+		$fotos = $('#fotos'),
+		$mask = $fotos.children('.mask'),
+		width = ~~($mask.children("img").width()),
+		r, spin;
+
+	spin = function spin(){
+		var left = (width * count) * -1;
+		$mask.animate({'left': left + 'px'}, 1000, function(){
+			count += 1;
+			if (count >= 6){
+				$mask.css('left', 0);
+				count = 1;
+			}
+			win.console.log(width);
+			r = win.setTimeout(spin, 4500);
+		});
+	};
+
 	if(!$('html').hasClass("cssanimations")){
-		var count = 0,
-			width = -5525,
-			mask = $('#fotos').children('.mask'),
-			r, spin;
-
-		spin = function spin(){
-			var left = (width * count) / 100;
-			mask.animate({'left': left + 'em'}, 1000, function(){
-				count += 1;
-				if (count >= 6){
-					mask.css('left', 0);
-					count = 1;
-				}
-				r = win.setTimeout(spin, 4500);
-			});
-		};
-
 		r = win.setTimeout(spin, 0);
 		win.spin = r;
+
+		$win.on('resize', function () {
+			width = ~~($mask.children("img").width());
+			left = (width * count) * -1;
+			$mask.css('left', left + 'px');
+
+			win.console.log('resized: ', width);
+		});
 	}
 
 	if(!Mod.mq('only all')) {
-		var $win = $(win);
 
-		$win.on('resize', function(){
-			var W = $(win).width();
-
-			if (W <= 1020){
+		var fontSize = function (winSize) {
+			if (winSize <= 1020){
 				$('body').css('fontSize','100%');
-			} else if ( W <= 1240 ) {
+			} else if ( winSize <= 1240 ) {
 				$('body').css('fontSize','110%');
-			} else if ( W <= 1440 ) {
+			} else if ( winSize <= 1440 ) {
 				$('body').css('fontSize','120%');
 			} else {
 				$('body').css('fontSize','130%');
 			}
+		};
+
+		fontSize($(win).width());
+		$win.on('resize', function(){
+			fontSize($(win).width());
 		});
 	}
 

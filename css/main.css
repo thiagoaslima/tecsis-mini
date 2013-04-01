@@ -189,6 +189,8 @@ textarea {
 
 .mask {
 	-webkit-animation: carrossel 30s infinite;
+	-moz-animation: carrossel 30s infinite;
+	-ms-animation: carrossel 30s infinite;
 	-o-animation: carrossel 30s infinite;
 	animation: carrossel 30s infinite;
 }
