@@ -14,7 +14,7 @@
 
 	spin = function spin(){
 		left = (width * count) * -1;
-		width = ~~($images.width());
+		width = parseInt($images.width(), 10);
 
 		$mask.animate({'left': left + 'px'}, 1500, function(){
 			count += 1;
@@ -48,12 +48,10 @@
 	}
 
 	$win.on('resize', function () {
-		width = ~~($images.width());
+		width = parseInt($images.width(), 10);
 		left = (width * count) * -1;
 
 		$mask.animate({'left': left + 'px'}, 600);
-
-		win.console.log('resized: ', width);
 	});
 
 	if(!$('html').hasClass("cssanimations")){
